@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
+// import './index.css';
 
 /*
 FilterableProductTable (orange): contains the entirety of the example
